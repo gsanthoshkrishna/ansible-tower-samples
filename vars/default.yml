@@ -1,0 +1,7 @@
+---
+mysql_root_password: "Pass@123"
+app_user: "ubuntu"
+http_host: "santhosh"
+http_conf: "santhosh.conf"
+http_port: "80"
+disable_default: true
